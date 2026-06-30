@@ -6,11 +6,11 @@
 #    By: Jpflegha <jpflegha@student.42heilbronn.    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/06/16 14:34:49 by Jpflegha          #+#    #+#              #
-#    Updated: 2026/06/16 15:33:41 by Jpflegha         ###   ########.fr        #
+#    Updated: 2026/06/30 13:41:17 by Jpflegha         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME =	iter
+NAME =	Array
 CC =	c++
 CFLAGS =	-Wall -Werror -Wextra -std=c++17
 SRC =	main.cpp
